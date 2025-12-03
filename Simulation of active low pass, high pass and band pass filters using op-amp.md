@@ -20,27 +20,22 @@ LT-Spice
 6. Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtai
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM AND  OUTPUT GRAPH:
 
 ### LOWPASS FILTER CIRCUIT DIAGRAM:
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ce44106b-c865-49f3-829b-d99e08cc5ec8" />
+
 
 ### HIGHPASS FILTER CIRCUIT DIAGRAM:
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b5a87ab-9034-41fd-a21f-8ce50182c66f" />
 
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
 
 
-
-
-
-## OUTPUT GRAPH:
-
-### LOWPASS FILTER:
-
-### HIGHPASS FILTER:
-
-### BANDPASS FILTER:
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/336ccb5b-41a5-44b9-b586-01e2dc01f4d0" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
